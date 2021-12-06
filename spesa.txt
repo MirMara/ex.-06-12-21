@@ -1,0 +1,21 @@
+
+item: mele,
+quantity: 2
+
+item: pere,
+quantity: 5
+
+item: limoni,
+quantity: 6
+
+item: mele,
+quantity: 4
+
+item: arancie,
+quantity: 5
+
+item: fragole,
+quantity: 7
+
+item: ciliegie,
+quantity: 8
